@@ -1,0 +1,30 @@
+{
+  "name": "simpleauth",
+  "version": "0.0.1",
+  "description": "A simple Authentication flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceagah/AuthFlow.git"
+  },
+  "keywords": [
+    "Auth",
+    "Node.js",
+    "TypeORM",
+    "Typescript"
+  ],
+  "author": "Carlos Ceagah <carlosceagah@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ceagah/AuthFlow/issues"
+  },
+  "homepage": "https://github.com/Ceagah/AuthFlow#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vitest": "^0.25.3"
+  }
+}
